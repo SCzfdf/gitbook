@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        "expandable-chapters-small",
+        "splitter",
+        "flexible-alerts"
+       // "changyan"
+    ],
+    "pluginsConfig": {
+        //"changyan": {
+        //    "appid": "cyud94Hpi"
+        //},
+        "expandable-chapters-small": {},
+        "flexible-alerts": {
+            "style": "flat",
+            "notice": {
+                "label": {
+                    "de": "注意",
+                    "en": "注意"
+                },
+                "className": "danger",
+                "labelVisibility": "hidden",
+                "iconVisibility": "hidden"
+            }
+        }
+    }
+}
