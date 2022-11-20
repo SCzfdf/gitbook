@@ -1,0 +1,10 @@
+Match文本分词查询.md|30
+Term词项查询.md|40
+Wildcard通配符查询.md|50
+Fuzzy容错查询.md|60
+Prefix前缀查询.md|70
+Range范围查询.md|80
+Exists存在查询.md|90
+Regexp正则查询.md|100
+Suggesters启发式查询.md|110
+Span跨度查询.md|400

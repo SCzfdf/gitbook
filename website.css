@@ -1,0 +1,31 @@
+.book.font-size-2 .book-body .page-inner section {font-size: 1.7rem;}
+
+.book-summary ul.summary li.active > a { background-color: rgb(245, 245, 245);}
+
+/* 标题上下间距调整 */
+.markdown-section h2 {
+    margin-top: 2.5em;
+    margin-bottom: .1em;
+}
+
+.markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6 {
+    margin-top: 1.5em;
+    margin-bottom: .1em;
+}
+
+/* 列表项间距调整 */
+.markdown-section li {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+/* 列表-p标签下间距调整 */
+.markdown-section ol li p {
+    margin-bottom: .2em;
+}
+
+/* 图片居中 */
+p img {
+    display: block;
+    margin: 0 auto;
+}

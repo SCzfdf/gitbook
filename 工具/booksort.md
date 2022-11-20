@@ -1,0 +1,11 @@
+docker|127
+elasticsearch|127
+jenkins|127
+Kafka|127
+MQ|127
+MyBatis|127
+mycat|127
+Mysql|127
+nosql|127
+Skywalking|127
+Zipkin|127
